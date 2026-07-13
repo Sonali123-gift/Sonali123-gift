@@ -132,6 +132,11 @@ sonali-khadka-b4220235a
   - Collection of Machine Learning, Deep Learning, NLP, and Data Science projects.
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonali123-gift/Sonali123-gift/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
 Thanks for visiting my profile! ⭐
