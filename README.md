@@ -10,7 +10,7 @@ Computer Science Student • AI Engineer in Progress • Machine Learning & Data
 
 ---
 
-## 🚀 About Me
+
 
 🎓 Computer Science Undergraduate at **@Global Academy at Siam University, Thailand**
 
@@ -104,9 +104,7 @@ sonali-khadka-b4220235a
 ![](https://github-profile-trophy.vercel.app/?username=Sonali123-gift&theme=tokyonight&margin-w=15)
 
 ---
-
-## ⭐ Featured Projects
-## 🚀 Completed Projects
+## ⭐ Completed Projects
 
 - 📊 **Student Sports Analytics Dashboard**
   - Interactive dashboard using Python, Pandas, Plotly, and Streamlit.
@@ -132,7 +130,6 @@ sonali-khadka-b4220235a
   - Collection of Machine Learning, Deep Learning, NLP, and Data Science projects.
 
 ---
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sonali123-gift/Sonali123-gift/output/github-contribution-grid-snake.svg" alt="Snake animation" />
