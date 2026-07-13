@@ -12,7 +12,7 @@ Computer Science Student • AI Engineer in Progress • Machine Learning & Data
 
 ## 🚀 About Me
 
-🎓 Computer Science Undergraduate at **Siam University, Thailand**
+🎓 Computer Science Undergraduate at **@Global Academy at Siam University, Thailand**
 
 🤖 Passionate about:
 
@@ -21,12 +21,12 @@ Computer Science Student • AI Engineer in Progress • Machine Learning & Data
 - Data Science
 - Deep Learning
 
-🌱 Currently learning:
+🌱 Currently Learning:
 
-- Transformers
-- MLOps
-- Cloud Deployment
-- Generative AI
+- Python
+- Machine Learning
+- Data Science
+- AI
 
 💬 Ask me about:
 
