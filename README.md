@@ -99,11 +99,6 @@ sonali-khadka-b4220235a
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Sonali123-gift&theme=tokyonight&margin-w=15)
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sonali123-gift/Sonali123-gift/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
