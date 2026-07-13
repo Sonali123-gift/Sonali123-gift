@@ -106,11 +106,30 @@ sonali-khadka-b4220235a
 ---
 
 ## ⭐ Featured Projects
+## 🚀 Completed Projects
 
-- ✈️ Flight Price Prediction
-- 📊 Student Sports Analytics Dashboard
-- 🤖 AI & Machine Learning Projects
-- 💡 GAir Smart Flight Companion
+- 📊 **Student Sports Analytics Dashboard**
+  - Interactive dashboard using Python, Pandas, Plotly, and Streamlit.
+
+- ♟️ **Java Chess Game**
+  - Object-oriented chess game developed in Java.
+
+- 🌐 **Project Rangers**
+  - Group web development project built with HTML, CSS, and JavaScript.
+
+- 📚 **Gson Assignment**
+  - Java project demonstrating JSON serialization and deserialization using Gson.
+
+---
+
+## 🛠️ Currently Working On
+
+- 🌬️ **AeroStop**
+  - Smart AI-powered air purification bus stop for improving urban air quality.
+
+
+- 🧠 **AI Learning Portfolio**
+  - Collection of Machine Learning, Deep Learning, NLP, and Data Science projects.
 
 ---
 
