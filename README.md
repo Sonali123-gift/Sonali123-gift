@@ -16,9 +16,9 @@ Computer Science Student • AI Engineer in Progress • Machine Learning & Data
 
 🤖 Passionate about:
 
+- Data Science
 - Artificial Intelligence
 - Machine Learning
-- Data Science
 - Deep Learning
 
 🌱 Currently Learning:
