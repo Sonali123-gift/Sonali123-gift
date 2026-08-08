@@ -91,16 +91,16 @@ sonali-khadka-b4220235a
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sonali123-gift&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=sonali-0973&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sonali123-gift&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sonali-0973&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali123-gift&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonali-0973&layout=compact&theme=tokyonight)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sonali123-gift/Sonali123-gift/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sonali-0973/sonali-0973/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
